@@ -1,41 +1,43 @@
-#🎨 cpp-primary_colour_mixer
+# 🎨 cpp-primary_colour_mixer
 A simple C++ console-based project that lets users mix two primary colours — Red, Blue, and Yellow — to form secondary colours like Green, Orange, or Purple. Great for beginners learning conditional statements and user input handling in C++.
 
-#✨ Features
+---
 
->🎨 Mix Primary Colours
-• Choose any two primary colours: Red, Blue, or Yellow
-• Program outputs the resulting secondary colour
+# ✨ Features
 
->🧠 Smart Input Handling
-• Accepts both uppercase and lowercase inputs
-• Detects invalid or duplicate colour entries
+🎨 Mix Primary Colours
+>• Choose any two primary colours: Red, Blue, or Yellow
+>• Program outputs the resulting secondary colour
 
->📋 Instant Result Display
-• Clearly shows the resulting mixed colour in text form
+🧠 Smart Input Handling
+>• Accepts both lowercase inputs
+>• Detects invalid or duplicate colour entries
 
->📌 Future Improvements
-• Add RGB value blending support
-• Allow more colours beyond the primaries
-• Implement GUI version using C++ graphics
+📋 Instant Result Display
+>• Clearly shows the resulting mixed colour in the background
 
-#🚀 How to Run
+📌 Future Improvements
+>• Add RGB value blending support
+>• Allow more colours beyond the primaries
+>• Implement GUI version using C++ graphics
 
->📂 Clone this repository
+# 🚀 How to Run
 
-git clone https://github.com/your-username/cpp-primary_colour_mixer.git
-cd cpp-primary_colour_mixer
+📂 Clone this repository
 
-
->⚙️ Compile the program (assuming your file is main.cpp inside a src/ folder)
-
-g++ src/main.cpp -o cpp-primary_colour_mixer
+>git clone https://github.com/your-username/cpp-primary_colour_mixer.git
+>cd cpp-primary_colour_mixer
 
 
->▶️ Run the program
+⚙️ Compile the program (assuming your file is main.cpp inside a src/ folder)
 
-./cpp-primary_colour_mixer
+>g++ src/main.cpp -o cpp-primary_colour_mixer
 
 
-#🐞 Unknown Problems
+▶️ Run the program
+
+>./cpp-primary_colour_mixer
+
+
+# 🐞 Problem
 Hex code for orange not available.
